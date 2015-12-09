@@ -15,7 +15,7 @@
   <Support></Support>
   <Registry>https://registry.hub.docker.com/u/ruippeixotog/google-musicmanager/</Registry>
   <GitHub>https://github.com/ruippeixotog/docker-google-musicmanager</GitHub>
-  <Repository>ruippeixotog/google-musicmanager</Repository>
+  <Repository>ruippeixotog/google-musicmanager:dev</Repository>
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
     <Networking>
