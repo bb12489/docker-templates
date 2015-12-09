@@ -9,7 +9,9 @@
     [b]5900[/b] is the port exposed by the VNC server. 
 	
 	[b][u][span style='color: #E80000;']Instructions[/span][/u][/b][br]
+	
 	1. Open your VNC viewer of choice and connected to the mapped port that you specificed during the install. 
+	
 	2 .Once connected, sign in with your Google Credentials to complete the setup of Music Manager.
     
   </Description>
