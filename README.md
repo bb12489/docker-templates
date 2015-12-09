@@ -8,6 +8,6 @@ Click on the Docker tab
 
 Add the following line under "Template Repositories"
 
-https://github.com/aptalca/docker-templates 
+https://github.com/bb12489/docker-templates 
 
-Profit
+
