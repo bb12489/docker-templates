@@ -6,7 +6,7 @@
     [b][u][span style='color: #E80000;']Configuration[/span][/u][/b][br]
     [b]/appdata[/b]  The working directory of Google Music Manager, where application logs and internal database files are stored[br][br]
     [b]/music[b] The music directory that should be synchronized with Google Play Music [br][br]
-    [span style='color: #E80000;']5900[/span] is the port exposed by the VNC server[br]
+    [span style='color: #E80000;']5900[/span] is the port exposed by the VNC server. Server name is gmusic[br]
     
   </Description>
   <Overview>
