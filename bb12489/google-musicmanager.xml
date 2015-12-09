@@ -31,7 +31,7 @@
   <Environment>
     <Variable>
       <Name>BRANCH</Name>
-      <Value>master</Value>
+      <Value>dev</Value>
     </Variable>
   </Environment>
 <Environment>
