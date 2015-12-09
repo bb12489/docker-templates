@@ -57,7 +57,7 @@
   <Banner></Banner>
   <Icon>http://i.imgur.com/E9wSQ9N.png</Icon>
   <Beta>False</Beta>
-  <Category>Backup: Cloud: MediaServer:Music</Category>
+  <Category>Backup: Cloud: MediaApp:Music MediaServer:Music</Category>
   <Changes>
     
     [font size=4]2015.12.09[/font]
