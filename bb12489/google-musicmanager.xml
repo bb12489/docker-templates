@@ -33,7 +33,13 @@
       <Name>BRANCH</Name>
       <Value>master</Value>
     </Variable>
-  </Environment>    
+  </Environment>
+<Environment>
+    <Variable>
+      <Name>SERVER_NAME</Name>
+      <Value>-e SERVER_NAME=gmusic -p 5900:5900 \</Value>
+    </Variable>
+  </Environment>  
   <Data>
     <Volume>
       <HostDir></HostDir>
