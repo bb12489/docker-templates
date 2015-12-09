@@ -37,7 +37,7 @@
 <Environment>
     <Variable>
       <Name>SERVER_NAME</Name>
-      <Value>-e SERVER_NAME=gmusic -p 5900:5900 \</Value>
+      <Value>SERVER_NAME=gmusic</Value>
     </Variable>
   </Environment>  
   <Data>
