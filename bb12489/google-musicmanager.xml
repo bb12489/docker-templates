@@ -19,7 +19,7 @@
   <Overview>
     Upload your personal music collection to Google Play Music
   </Overview>
-  <Support></Support>
+  <Support>https://lime-technology.com/forum/index.php?topic=44585.0</Support>
   <Registry>https://registry.hub.docker.com/u/ruippeixotog/google-musicmanager/</Registry>
   <GitHub>https://github.com/ruippeixotog/docker-google-musicmanager</GitHub>
   <Repository>ruippeixotog/google-musicmanager:dev</Repository>
